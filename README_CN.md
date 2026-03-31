@@ -1,3 +1,7 @@
+[English](README.md) | [中文](README_CN.md)
+
+---
+
 # ERLE 离线分析工具
 
 **Echo Return Loss Enhancement Offline Analyzer**
